@@ -8,3 +8,4 @@ following along Kaggle's [Pandas tutorial](https://www.kaggle.com/learn/pandas).
 - `conda activate pandas`
 - `conda install python`
 - `conda install pandas`
+- `conda install jupyter`
