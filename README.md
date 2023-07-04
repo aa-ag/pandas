@@ -1,11 +1,3 @@
-## Pandas micro course
+## Pandas stuff
 
-following along Kaggle's [Pandas tutorial](https://www.kaggle.com/learn/pandas).
-
-## env
-
-- `conda create -n pandas`
-- `conda activate pandas`
-- `conda install python`
-- `conda install pandas`
-- `conda install jupyter`
+After following along Kaggle's [Pandas tutorial](https://www.kaggle.com/learn/pandas), now checking out this [class](https://www.udemy.com/course/the-pandas-bootcamp/).
